@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "jsx": "react",
+      "module": "commonjs",
+      "strict": true,
+      "allowJs": false,
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "allowImportingTsExtensions": true,
+      "noEmit": true,
+      "sourceMap": true
+    },
+    "include": ["./src/**/*.tsx","./src/**/*.ts"]
+  }
